@@ -1,0 +1,12 @@
+[
+  {"input": "My invoice was charged twice last month, can I get a refund?", "expected": "BILLING"},
+  {"input": "The dashboard keeps crashing whenever I try to load reports.", "expected": "TECHNICAL"},
+  {"input": "Do you offer enterprise pricing for teams over 50 people?", "expected": "SALES"},
+  {"input": "I was charged $99 but my plan should be $49 — please fix this.", "expected": "BILLING"},
+  {"input": "Login button is unresponsive on Chrome and Firefox.", "expected": "TECHNICAL"},
+  {"input": "Interested in a demo for our 200-person company.", "expected": "SALES"},
+  {"input": "Why was I billed for the annual plan when I signed up monthly?", "expected": "BILLING"},
+  {"input": "API endpoint /users returns a 500 error every time.", "expected": "TECHNICAL"},
+  {"input": "Looking for a custom contract — can we discuss pricing?", "expected": "SALES"},
+  {"input": "The mobile app freezes when I open notifications.", "expected": "TECHNICAL"}
+]
